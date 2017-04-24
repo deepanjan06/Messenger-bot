@@ -1,4 +1,4 @@
-A simple Facebook Messenger chatbot that responds to user's questions.
+A simple Facebook Messenger chatbot that responds to user's messages.
 
 ## Requirements
 
